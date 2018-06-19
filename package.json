@@ -1,0 +1,13 @@
+{
+  "name": "images-api",
+  "version": "1.0.0",
+  "description": "An API for uploading and serving images",
+  "author": "Elvin Ali",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
